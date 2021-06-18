@@ -1,6 +1,6 @@
 {
-    "name": "ngx-smart-popover",
-    "version": "1.4.0",
+    "name": "@hamster/ngx-smart-popover",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/lsqlabs/ngx-smart-popover.git"
