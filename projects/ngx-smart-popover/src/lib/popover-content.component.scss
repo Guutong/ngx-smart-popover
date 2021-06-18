@@ -23,6 +23,7 @@ $font-family: 'Helvetica' !default;
 }
 
 .popover {
+    position: absolute;
     .virtual-area {
         height: 11px;
         width: 100%;
